@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Harvester(int,\ int)
+comment0.text=\r\n\ Creates\ a\ new\ Harvester\ object\ facing\ east\ with\ no\ flowers.\r\n\ @param\ x\ \ \ \ \ The-coordinate\ of\ the\ Jeroo's\ location.\r\n\ @param\ y\ \ \ \ \ The\ y-coordinate\ of\ the\ Jeroo's\ location.\r\n
+comment1.params=
+comment1.target=void\ hopAndPick()
+comment2.params=
+comment2.target=void\ hop2AndPick()
+comment3.params=
+comment3.target=void\ harvestRow()
+numComments=4

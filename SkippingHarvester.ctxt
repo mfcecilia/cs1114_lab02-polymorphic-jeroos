@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=SkippingHarvester(int,\ int)
+comment0.text=\r\n\ Creates\ a\ new\ SkippingHarvester\ object\ facing\ east\ with\ no\ flowers.\r\n\ @param\ x\ \ \ \ \ The\ x-coordinate\ of\ the\ Jeroo's\ location.\r\n\ @param\ y\ \ \ \ \ The\ y-coordinate\ of\ the\ Jeroo's\ location\r\n
+comment1.params=
+comment1.target=void\ harvestRow()
+numComments=2
